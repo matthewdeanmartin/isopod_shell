@@ -1,0 +1,7 @@
+{
+  "name": "isopod_shell",
+  "version": "0.0.1",
+  "description": "Small game",
+  "scripts": [ "isopod_shell.sh" ],
+  "install": "make install"
+}
